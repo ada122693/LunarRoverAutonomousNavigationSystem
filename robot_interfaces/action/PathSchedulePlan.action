@@ -1,0 +1,10 @@
+# Goal
+nav_msgs/Path[] segments
+float64[] wait_durations
+float64 dispatch_time
+---
+# Result
+bool success
+---
+# Feedback
+uint32 current_segment

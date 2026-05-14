@@ -1,0 +1,8 @@
+# Example objectives file for testing
+# Format: id,priority,x,y,is_power_station,yaw,description
+# Lines starting with # are comments
+# Lower priority number = higher priority
+
+1,0,5.0,4.0,0,0.0,test objective
+2,3,2.5,7.5,0,0.0,test2
+3,0,0.0,0.0,1,1.0,power
