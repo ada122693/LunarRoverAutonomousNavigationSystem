@@ -1,0 +1,6 @@
+# Rover info
+# Format: rover_id = [id]
+#         rover_start_coords = (x,y)
+
+rover_id = 1
+rover_start_coords = (0,0)
