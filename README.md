@@ -111,7 +111,7 @@ battery_level is in joules
 ## shim
 
 this is for requests from the rover to the system
-just compile it separately and run it in bash with
+just run it separately with
 
 ```bash
 ./rover_shim [rover_id]
